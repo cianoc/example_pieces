@@ -1,0 +1,16 @@
+*.DS_Store
+*.o
+*.ly
+*.mid
+*.count
+*.texi
+*.tex
+*.eps
+*sandbox.config
+.DS_Store
+.DS_Store.ackoptions
+.ackoptions
+.cabal-sandboxa
+_build
+build
+dist-newstyle
